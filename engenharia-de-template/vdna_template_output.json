@@ -1,0 +1,76 @@
+{
+  "template_name": "youtube_biblical_thumbnail_pattern",
+  "version": "1.0",
+  "description": "Template estrutural extraído de thumbnails virais de conteúdo bíblico no YouTube",
+
+  "visual_dna": {
+    "palette": {
+      "base_colors": [
+        "bege_areia",
+        "marrom_terroso",
+        "cinza_fumaça"
+      ],
+      "accent_colors": [
+        "laranja_fogo",
+        "dourado_luz_divina"
+      ],
+      "temperature": "quente",
+      "contrast_level": "alto"
+    },
+
+    "composition": {
+      "subject_scale": "50-70%",
+      "subject_position": "lado_esquerdo_ou_centro_deslocado",
+      "focus_priority": [
+        "rosto_personagem",
+        "elemento_simbolico",
+        "cenario_narrativo"
+      ]
+    },
+
+    "texture": {
+      "sharpness": "alto_no_sujeito",
+      "background": "haze_ou_fumaca",
+      "lighting": "cinematografica"
+    },
+
+    "scenarios": [
+      "deserto",
+      "ruinas_antigas",
+      "batalha",
+      "paisagem_epica",
+      "ceu_dramatico"
+    ]
+  },
+
+  "emotional_template": {
+    "archetypes": [
+      "autoridade",
+      "ameaca",
+      "protecao"
+    ],
+
+    "psychological_structure": "ameaca_visivel + figura_de_autoridade + promessa_de_protecao",
+
+    "emotional_vector": {
+      "valence": "medio_negativa",
+      "arousal": "alto",
+      "dominance": "alto"
+    }
+  },
+
+  "symbols": [
+    "fogo",
+    "luz_divina",
+    "exercitos",
+    "tempestade",
+    "ruinas"
+  ],
+
+  "click_mechanisms": [
+    "contraste_emocional",
+    "autoridade_visual",
+    "curiosidade_narrativa",
+    "promessa_de_revelacao"
+  ]
+}
