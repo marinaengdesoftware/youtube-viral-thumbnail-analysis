@@ -4,37 +4,24 @@ Canal analisado: @HistoriasdaBiblia.oficial
 
 Objetivo do estudo:
 
-Identificar padrões estruturais responsáveis pela alta taxa de clique em thumbnails e títulos.
+Identificar padrões estruturais responsáveis pela alta taxa de clique em thumbnails e títulos em conteúdos narrativos bíblicos.
 
 ---
 
-# Características do Canal
+## Hipótese inicial
 
-Categoria:
-Narrativa bíblica cinematográfica
+O desempenho do canal parece baseado em três pilares principais:
 
-Formato predominante:
-
-- filmes longos
-- narrativa épica
-- thumbnails altamente cinematográficas
-
----
-
-# Hipótese Inicial
-
-O desempenho do canal parece baseado em três pilares:
-
-1. narrativa visual épica
+1. narrativa visual cinematográfica
 2. arquétipos bíblicos fortes
 3. títulos com promessa de revelação histórica
 
 ---
 
-# Etapas da Análise
+## Etapas da análise
 
 1. coleta de thumbnails
 2. extração de DNA visual (VDNA)
-3. identificação de arquétipos emocionais
-4. análise estrutural de títulos
-5. construção de template criativo
+3. análise emocional das imagens
+4. análise estrutural dos títulos
+5. construção de templates reutilizáveis
