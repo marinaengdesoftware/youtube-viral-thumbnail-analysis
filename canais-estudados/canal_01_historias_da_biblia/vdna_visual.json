@@ -2,33 +2,22 @@
  "template_name": "biblical_cinematic_thumbnail",
 
  "composition": {
-   "subject_scale": "dominante",
-   "camera_type": "close_up_or_medium",
-   "subject_position": "centro ou lateral dominante",
+   "subject_scale": "50-70%",
+   "camera_type": "close_up",
    "depth": "alto"
  },
 
- "color_palette": {
-   "base_colors": ["areia", "cinza pedra", "verde escuro"],
-   "accent_colors": ["fogo laranja", "dourado"],
-   "contrast": "alto",
-   "lighting": "cinematografico"
+ "palette": {
+   "base_colors": ["marrom", "areia", "cinza"],
+   "accent_colors": ["fogo_laranja", "dourado"]
  },
 
- "visual_symbols": [
-   "ruinas antigas",
-   "figuras biblicas",
-   "criaturas mitologicas",
+ "symbols": [
+   "ruinas",
+   "criaturas",
    "exercitos",
-   "fogo",
-   "luz divina"
+   "luz_divina"
  ],
-
- "texture": {
-   "sharp_subject": true,
-   "haze_background": true,
-   "particles": true
- },
 
  "archetypes": [
    "autoridade",
